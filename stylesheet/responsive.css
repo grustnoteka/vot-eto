@@ -1,0 +1,85 @@
+@media only screen and (min-device-width: 320px) and (max-device-width: 375px) {
+
+  .marquee2 {
+    display: none;
+  }
+  .marquee4 {
+    display: none;
+  }
+  .e {
+    display: none;
+  }
+  .o {
+    display: none;
+  }
+  .p1 {
+    display: none;
+  }
+  .s1 {
+    display: none;
+  }
+  .v1 {
+    display: none;
+  }
+  .x1 {
+    display: none;
+  }
+  .t {
+    display: none;
+  }
+  .u {
+    display: none;
+  }
+  .r {
+    display: none;
+  }
+  .a {
+
+  }
+  .b {
+    font-size: 35px;
+  }
+}
+@media only screen and (min-device-width: 376px) {
+  .aaa {
+    display: none;
+  }
+}
+
+@media only screen and (min-width: 1920px)  {
+  /* HD*/
+}
+@media only screen and (min-width: 1680px) and (max-width: 1920px) {
+  /* MacBook Pro 2020 15"*/
+
+}
+
+@media only screen and (min-width: 1440px) and (max-width: 1680px) {
+  /* MacBook Pro 2020*/
+
+}
+
+@media only screen and (min-width: 1366px) and (max-width: 1440px) {
+  /* MacBook Pro 2020*/
+
+  }
+}
+@media only screen and (min-width: 1024px) and (max-width: 1366px) {
+
+
+}
+
+
+
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+  /* iPad Portrait */
+
+}
+
+@media only screen and (min-width: 480px) and (max-width: 768px) {
+
+}
+
+@media only screen and (min-device-width: 375px) and (max-device-width: 480px) {
+
+}
